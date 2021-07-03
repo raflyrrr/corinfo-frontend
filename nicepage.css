@@ -33705,7 +33705,12 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-text-1 {
   font-family: Montserrat;
-  margin: -30px 1031px 22px 0;
+  margin: -33px 1031px 25px 0;
+}
+
+.u-header .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
